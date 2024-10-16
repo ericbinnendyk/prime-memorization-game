@@ -6,7 +6,7 @@ A game to help the user memorize prime numbers.
 Requires Python 3, terminal access, and permissions to write and read arbitrary files.
 
 * Open a terminal.
-* Run `git clone https://github.com/ericbinnendyk/prime-memorization-game` into the folder of your choice.
+* Run `git clone https://github.com/ericbinnendyk/prime-memorization-game` in the folder of your choice.
 * Navigate to `prime-memorization-game`.
 * Run the program with `python3 prime_memorizer.py`.
 
