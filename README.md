@@ -12,7 +12,7 @@ Requires Python 3, terminal access, and permissions to write and read arbitrary 
 
 ## Instructions
 
-The goal of this game is to help you memorize prime numbers as far as you can.
+The purpose of this game is to help you memorize prime numbers as far as you can.
 
 You will be given increasing numbers not divisible by 2, 3, or 5, and asked if each of them are prime.
 
