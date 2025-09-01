@@ -1,4 +1,4 @@
-# prime-memorization-game
+# Prime Memorization Game
 A game to help the user memorize prime numbers.
 
 ## Installing
